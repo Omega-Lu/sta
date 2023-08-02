@@ -1,0 +1,1 @@
+const languageSelect = document.getElementById("languageSelect")

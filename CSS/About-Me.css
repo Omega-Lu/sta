@@ -57,3 +57,22 @@ body{
     color: purple;
     margin-left: 10%;
 }
+#cardBody3{
+    font-family: sans-serif;
+    font-size: 1.1rem;
+    padding-left: 10px;
+    margin-right: 10%;
+    display: none;
+}
+#card3{
+    background-color: gray;
+    border-radius: 20px;
+    color: white;
+    float: left;
+    margin-left: 10px;
+    padding-left: 10px;
+    width: 30%;
+}
+.button{
+    text-align: center;
+}
